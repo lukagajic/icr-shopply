@@ -1,0 +1,37 @@
+.header {
+  text-align: center;
+}
+
+.toast {
+  margin: 0 auto;
+}
+
+.logo-image {
+  width: 150px;
+}
+
+.custom-bg-color {
+  background-color:#2e7d32 !important;
+}
+
+.nav-link {
+  color: #fff !important;
+}
+
+.carousel-caption {
+  background-color: rgba(211, 214, 219, 0.8);
+}
+
+.carousel-caption * {
+  color: black;
+}
+
+.redText {
+  color: #FF0000;
+}
+.greenText {
+  color: #0fa623;
+}
+.modal-90w {
+  min-width: 90%;
+}
